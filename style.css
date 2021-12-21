@@ -1,0 +1,48 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background:rgb(214, 212, 212);
+    font-family: sans-serif;
+}
+
+img {
+    width: 700px;
+    height: auto;
+}
+
+h1 {
+    margin: 17px 0px 30px;
+}
+
+.start {
+    background: rgb(236, 234, 234);
+    padding: 20px;
+}
+
+.content {
+    margin: 0px 0px 10px;
+    padding: 60px 100px 70px;
+    background: white;
+}
+
+p  {
+    width: 700px;
+    font-size: 20px;
+    line-height: 35px;
+    color:black;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 17px 0px 30px;
+}
+
+h2 {
+    font-size: 36px;
+    margin: 0px 0px 30px;
+}
+
+.nav {
+    display: flex;
+    width: 900px;
+}
